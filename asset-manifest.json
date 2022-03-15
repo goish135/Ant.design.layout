@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ant.design.layout/static/css/main.ad908a56.css",
+    "main.js": "/Ant.design.layout/static/js/main.b040aa9f.js",
+    "static/js/787.964e541a.chunk.js": "/Ant.design.layout/static/js/787.964e541a.chunk.js",
+    "index.html": "/Ant.design.layout/index.html",
+    "main.ad908a56.css.map": "/Ant.design.layout/static/css/main.ad908a56.css.map",
+    "main.b040aa9f.js.map": "/Ant.design.layout/static/js/main.b040aa9f.js.map",
+    "787.964e541a.chunk.js.map": "/Ant.design.layout/static/js/787.964e541a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad908a56.css",
+    "static/js/main.b040aa9f.js"
+  ]
+}

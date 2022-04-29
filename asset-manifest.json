@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Ant.design.layout/static/css/main.ad908a56.css",
-    "main.js": "/Ant.design.layout/static/js/main.b040aa9f.js",
-    "static/js/787.964e541a.chunk.js": "/Ant.design.layout/static/js/787.964e541a.chunk.js",
-    "index.html": "/Ant.design.layout/index.html",
-    "main.ad908a56.css.map": "/Ant.design.layout/static/css/main.ad908a56.css.map",
-    "main.b040aa9f.js.map": "/Ant.design.layout/static/js/main.b040aa9f.js.map",
-    "787.964e541a.chunk.js.map": "/Ant.design.layout/static/js/787.964e541a.chunk.js.map"
+    "main.css": "/static/css/main.ad908a56.css",
+    "main.js": "/static/js/main.b3c9dc60.js",
+    "static/js/787.964e541a.chunk.js": "/static/js/787.964e541a.chunk.js",
+    "static/media/PinYu_Re5ume.pdf": "/static/media/PinYu_Re5ume.9dd66ba787efd7aa978d.pdf",
+    "index.html": "/index.html",
+    "main.ad908a56.css.map": "/static/css/main.ad908a56.css.map",
+    "main.b3c9dc60.js.map": "/static/js/main.b3c9dc60.js.map",
+    "787.964e541a.chunk.js.map": "/static/js/787.964e541a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad908a56.css",
-    "static/js/main.b040aa9f.js"
+    "static/js/main.b3c9dc60.js"
   ]
 }

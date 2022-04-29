@@ -1,9 +1,10 @@
-
+import SinglePagePDFViewer from "./pdf/single-page";
 import './App.css';
 import { Layout,Avatar, Menu,Breadcrumb } from 'antd';
 import { Typography } from 'antd';
 import SubMenu from 'antd/lib/menu/SubMenu';
 import { MailOutlined } from '@ant-design/icons';
+import samplePDF from "./PinYu_Re5ume.pdf";
 const { Title } = Typography;
 const { Header, Footer, Sider, Content } = Layout;
 
@@ -50,7 +51,7 @@ function App() {
             {/* <Breadcrumb.Item>Home</Breadcrumb.Item> */}
             <Breadcrumb.Item>Dashboard</Breadcrumb.Item>
             </Breadcrumb>
-            <div style={{background:'#fff',padding:24,minHeight:650}} >Content</div>
+            <div style={{background:'#fff',padding:24,minHeight:650}} ><SinglePagePDFViewer pdf={samplePDF} /></div>
           </Content>
           <Footer style={{ textAlign: 'center' }}>Ant Design Layout example Created by GOISH</Footer>
           </Layout>
